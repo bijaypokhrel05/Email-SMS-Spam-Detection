@@ -16,6 +16,7 @@ ___
 ## Model Performance
 You can view below images that I directly copy from the notebook:
 
+![Image of metrics calculation](https://github.com/bijaypokhrel05/Email-SMS-Spam-Detection/blob/main/dataframe_of_performance_metrics.png)
 ___
 ## How to Run the Project
 1. **Clone the repository:**
