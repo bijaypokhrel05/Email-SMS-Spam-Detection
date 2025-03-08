@@ -20,7 +20,7 @@ ___
 ## How to Run the Project
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/spam-detection-nlp.git
+   git clone https://github.com/bijaypokhrel05/Email-SMS-Spam-Detection.git
    cd spam-detection-nlp
    ```
 2. **Install dependencies:**
