@@ -8,9 +8,9 @@ For this project, I used **TF-IDF vectorization** to extract important features 
 Since marking a **legitimate message as spam (false positive) can have serious consequences***, I focused on **optimizing the precision score** to reduce such errors and ensure more accurate filtering.
 ___
 ## Key Features
-* **Dataset:** SMS/Email spam dataset sourced from Kaggle
-* **Feature Engineering:** TF-IDF Vectorizer for text transformation
-* **Machine Learning Model:** Multinomial Naïve Bayes (with other models explored)
+* **Dataset:** SMS/Email spam dataset sourced from Kaggle [here](https://www.kaggle.com/datasets/venky73/spam-mails-dataset)
+* **Feature Engineering:** I have exracted lexical features from the text data.TF-IDF Vectorizer for text transformation
+* **Machine Learning Model:** Multinomial Naive Bayes (with other models explored)
 * **Evaluation Metric:** Precision-focused approach to reduce false positives
 ___
 ## Model Performance
